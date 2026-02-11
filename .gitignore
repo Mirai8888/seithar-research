@@ -1,0 +1,6 @@
+# Internal operational files
+x-posts-draft.md
+SITE_PACKAGE.md
+DISTRIBUTION_LOG.md
+.env
+.DS_Store
